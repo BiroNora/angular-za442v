@@ -19,9 +19,9 @@ export const products = [
   },
   {
     id: 4,
-    name: 'Phone Expensive',
+    name: 'Phone Exclusive',
     price: 999,
-    description: 'A great phone with extra large screen'
+    description: 'A great phone with extra large&strong screen'
   },
   {
     id: 5,
