@@ -16,9 +16,20 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    id: 4,
+    name: 'Phone Expensive',
+    price: 999,
+    description: 'A great phone with extra large screen'
+  },
+  {
+    id: 5,
+    name: 'Phone MiniMax',
+    price: 399,
+    description: 'A smart phone with extras'
   }
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
